@@ -1,5 +1,3 @@
-module github.com/jickylive/hugo-mode-gallerydeluxe
+module github.com/bep/gallerydeluxe
 
 go 1.19
-
-require github.com/bep/gallerydeluxe v0.9.1 // indirect

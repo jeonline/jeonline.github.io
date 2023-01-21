@@ -4,3 +4,6 @@
 [submodule "hugo-mode-gallerydeluxe"]
 	path = hugo-mode-gallerydeluxe
 	url = https://github.com/jickylive/hugo-mode-gallerydeluxe.git
+[submodule "themes/gallerydeluxe"]
+	path = themes/gallerydeluxe
+	url = https://github.com/jickylive/hugo-mode-gallerydeluxe.git
